@@ -9,7 +9,7 @@
 <section>
   <h2> ✨Topics covered </h2>
   <ul>
-  <li>select command</li>
+  <li>Select command</li>
   <li>Basic joins topic</li>
   <li>Basic Aggregate Functions</li>
   <li>Sorting and Grouping</li>
